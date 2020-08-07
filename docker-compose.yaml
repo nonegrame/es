@@ -1,4 +1,4 @@
-version: '1.0'
+version: '2.2'
 services:
   es01:
     image: nonegrame/es:0.0.1
